@@ -1,0 +1,67 @@
+﻿a;a. lifting;b. gathering;c. raising;d. asking
+b;a. convinced;b. believed;c. found that;d. realized
+c;a. so that;b. that;c. before;d. when
+a;a. turned into;b. turned over;c. turned down;d. turned out
+a;a. public;b. common;c. audience;d. viewers
+a;a.situation;b. environment;c.status;d. circumstance
+d;a.graze;b. drift;c.wonder;d. wander
+c;a.admiring;b. gazing;c. glancing;d. observing
+b;a. broken;b. Banned;c.ok;d.no
+d;a. get-together;b. make-up ;c. look-out;d. go-between
+d;a. will have;b. are having;c. will have had;d. have had
+a;a. return/ will have grown ;b. return/ will grow;c. will return/ have grown ;d. will return/ will grow
+b;a. His children are never heard shout at. ;b. His shout at his children are never heard. ;c. He is never heard shout at his children. ;d. He is nerver heard to shout at his children. 
+b;a. visited;b. had visited;c. would visit;d. would have visited
+b;a. obey;b. obeys;c. would obey;d. will obey
+a;a. was;b. were;c. had been;d. has been
+a;a. that;b. which;c. who;d. none is correct
+c;a. I will forget to see;b. will I forget to see;c. will I forget seeing;d. will I be forgotten seeing
+c;a. ask/ will be taken;b. get/ being taken;c. let/ to be taken;d. have/ taken
+c;a. to smoke ;b. smoking;c. smoke;d. to be smoked
+d;a. assist;b. exist ;c. support;d. survive
+d;a. involved;b. evolved;c. concerned;d. transferred
+d;a. breaking into;b.breaking out ;c. getting through;d. taking over
+a;a. exclaimed;b.advertised;c. issued;d. claimed
+b;a. shameful;b.confusing;c. embarrassed;d. curious
+c;a. applied;b. experienced;c. experimented;d. Attempted
+d;a. on dying;b. having died;c. dead;d. on his death
+a;a. esteemed;b. astounded;c. astonishing;d. Flickered
+c;a. mood;b. situation;c. dignity;d. Personification
+d;a. peculiar;b. especial;c. hysterical;d. Unconscious
+b;a. was;b. is;c. had seen;d. both a and b are correct
+c;a. was ringing;b. had rung;c. rang;d. would ring
+d;a. wouldn’t have been;b. wouldn’t be;c. were not;d. am not
+a;a. Was;b. Would be ;c. Be;d. Both b and c are correct
+b;a. that;b. which;c. who;d. none is correct
+b;a. the doctor fell;b. the doctor had fallen;c. did the doctor fall;d. had the doctor fallen
+a;a. haven’t succeeded;b. hadn’t succeeded;c. succeeded not;d. not succeeded
+d;a. to be;b. to being;c. being;d. with
+c;a. burns;b. burn;c. to burn;d. burning 
+c;a. at;b. on;c. up;d. for
+d;a. colossal;b. extravagant;c. anonymous;d. Repulsive
+a;a. drowned;b. emerged;c. plunged;d. Repulsed
+b;a. group;b. bunch ;c. trail;d. Team
+d;a. File;b. Identity;c. Record;d. Identificating
+a;a. Ground;b. Vicinity;c. Background;d. Terrace
+b;a. Irreplaceable;b. Inevitable;c. Responsible;d. Impossible
+c;a. his arrest to the editor;b. the editor his arrest;c. the editor that his arrest had been;d. the editor of his arrest
+d;a. characteristics;b. features;c. statement;d. figured 
+d;a. disregarded;b. grudged;c. reprimanded;d. Complained
+b;a. tried out;b. put out;c. turned off;d. turned down
+a;a. were you;b. are you;c. have you been;d. are you being
+d;a. wash;b. to wash;c. washing;d. will wash
+c;a. if only;b. now that;c. no matter;d. so that
+a;a. have started;b. will start;c. will be start;d. will have start
+c;a. with hard working;b. in spite of his hard work;c. only if he work hard;d. only with hard work
+d;a. some notes were prepared for Dr. Clark;b. some notes were prepared by Dr. Clark;c. Dr. Clark prepared some notes;d. the members were pleased to hear Dr. Clark
+d;a. hearing/ cutting;b. hearing/ to cut;c. to hear/ to be cut;d. to hear/ cutting
+b;a. would give/ to repair;b. gave/ to repair;c. had given/ to be repair;d. had given/ repaired
+a;a. nor could be;b. nor he could;c. neither he could;d. either he could not
+a;a. would feel;b. had been feeling;c. had left;d. would have left
+b;a. thanks to;b. reliant on;c. dependent on;d. Responsible
+a;a. resolve;b. resource;c. exert;d. Resort
+c;a. enlist;b. enroll;c. register;d. Sign
+a;a. remains;b. results;c. remnants;d. Relics
+b;a. in;b. with;c. on;d. at 
+c;a. particularly;b. strongly;c. essentially;d. Extremely
+b;a. particularly;b.essentially;c. strongly;d. assshole
